@@ -1,0 +1,10 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "cairosvg>=2.8.2",
+    "pyqt6>=6.10.0",
+    "pyqt6-webengine>=6.10.0",
+]
